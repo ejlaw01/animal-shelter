@@ -1,0 +1,51 @@
+body {
+  font-family: sans-serif;
+  background-color: pink;
+}
+
+.header {
+  font-weight: bolder;
+  text-align: center;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.header h1 {
+  font-size: 40px;
+}
+
+.header h2 {
+  font-size: 30px;
+}
+
+.column {
+  float: left;
+  width: 48vw;
+  height: auto;
+}
+
+.column img {
+  height: 20vw;
+  width: auto;
+  padding: 25px;
+  padding-bottom: 0px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.column p {
+  text-align: center;
+  font-family: arial;
+  font-size: 16px;
+  max-width: 600px;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+.footer h6 {
+  font-size: 14px;
+  font-family: Times;
+  text-align: left;
+  clear: both;
+  padding-top: 80px;
+}
