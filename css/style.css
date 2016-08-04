@@ -24,7 +24,7 @@ body {
 }
 
 .column img {
-  height: 20vw;
+  height: 20vh;
   width: auto;
   padding: 25px;
   padding-bottom: 0px;
@@ -40,6 +40,7 @@ body {
   max-width: 600px;
   padding-left: 20%;
   padding-right: 20%;
+  height: 20vh;
 }
 
 .footer h6 {
@@ -48,4 +49,13 @@ body {
   text-align: left;
   clear: both;
   padding-top: 80px;
+}
+
+
+.box {
+  border: 1px solid ivory;
+  background-color: ivory;
+  border-radius: 50px;
+  margin: 20px;
+  height: 300px;
 }
